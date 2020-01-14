@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainClass
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ getPlaintextAndKeys()
+comment3.params=
+comment3.target=void\ gettingkey1()
+comment4.params=
+comment4.target=void\ encryptPlaintext()
+comment5.params=
+comment5.target=void\ decryptCiphertext()
+numComments=6

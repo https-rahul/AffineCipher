@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AffineCipher
+comment0.text=\ \ \ CRYPTO\ ASSIGNMENT\r\n\ \ \ AFFINE\ CIPHER\r\n\ \ \ \r\n\ \ \ DONE\ BY\:\r\n\ \ \ NEHA\ MANGHNANI\ (2016A7PS0010U)\r\n\ \ \ NIYATI\ SOKHI\ (2016A7PS0229U)\r\n\ \ \ ANJALI\ GOLLAPALLI\ (2016A7PS0050U)\r\n\ \r\n\ \r\n
+comment1.params=
+comment1.target=AffineCipher()
+comment2.params=plaintext\ multiplicativekey\ additivekey
+comment2.target=AffineCipher(java.lang.String,\ int,\ int)
+comment3.params=inversemultiplicativekey\ additivekey\ ciphertext
+comment3.target=AffineCipher(int,\ int,\ java.lang.String)
+comment4.params=plaintext\ key1\ key2
+comment4.target=java.lang.String\ encryption(java.lang.String,\ int,\ int)
+comment5.params=ciphertext\ inversekey1\ key2
+comment5.target=java.lang.String\ decryption(java.lang.String,\ int,\ int)
+comment6.params=letter
+comment6.target=int\ assignnumbertoletter(char)
+comment7.params=number
+comment7.target=char\ assignlettertonumber(int)
+comment8.params=number
+comment8.target=int\ encryptnumber(int)
+comment9.params=number
+comment9.target=int\ decryptnumber(int)
+numComments=10
